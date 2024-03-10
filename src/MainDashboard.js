@@ -147,8 +147,8 @@ const MainDashboard = () => {
                 </tbody>
               </table>
             ) : (
-              // Display a message if no users are found
-              <p>No users found</p>
+              
+            
             )}
           </div>
         </div>
